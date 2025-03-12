@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare-email-worker-example",
+  "main": "src/index.ts",
+  "compatibility_date": "2024-01-05",
+  "observability": {
+    "enabled": true,
+    "head_sampling_rate": 1,
+  },
+}

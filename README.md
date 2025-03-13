@@ -2,6 +2,8 @@
 
 This project is a Cloudflare Worker that processes emails and forwards them to a support center.
 
+Medium post: [here](https://medium.com/@agungdarmanto/how-to-set-up-cloudflare-email-worker-e97b65210a23)
+
 ## Installation
 
 1. Clone the repository:
